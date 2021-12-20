@@ -1,0 +1,4 @@
+[submodule "src/openh264"]
+	path = src/openh264
+	url = https://github.com/cisco/openh264
+	ignore = dirty
